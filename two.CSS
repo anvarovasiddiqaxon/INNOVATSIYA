@@ -1,0 +1,42 @@
+.topnav{
+  padding: 0px;
+  margin: 0;
+  overflow: hidden;
+
+}
+.topnav a{
+  float: right;
+  background-image: url(Chrysanthemum.jpg);
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+.topnav a{
+  display: block;
+  padding: 14px 16px;
+  color: white;
+  text-decoration: none;
+}
+p{
+  color: white;
+  background-image: url(Chrysanthemum.jpg);
+  font-size: 70px;
+  text-align: center;
+  font-style: italic;
+  font-weight: normal;
+}
+h1{
+  color: white;
+  text-align: center;
+  }
+body{
+  background-color: orange;
+  font-family: cursive;
+}
+img{
+  width: 20%;
+  height: 20%;
+}
+body{
+  text-align: center;
+}
